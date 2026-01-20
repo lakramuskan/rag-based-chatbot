@@ -35,7 +35,7 @@ This project is a **Retrieval-Augmented Generation (RAG)** application that allo
 * **Ollama** (LLM + Embeddings)
 * **LangChain**
 * **Streamlit**
-* **Vector Database** (Chroma / FAISS)
+* **Vector Database** (FAISS)
 
 ---
 
